@@ -1,4 +1,13 @@
-A simple way to create a SVM classifier to emotion recognition
+# SVM-emotion-face-recognition
+A simple way to create a SVM classifier to emotion recognition. 
+There is a feature extractor that take into account only feature about 
+some euclidean distance between landmarks point.
+
+# Getting Started
+#### launch main.py from prompt command line
+```
+python main.py
+```
 # Requirements
 #### dlib 19.21.0
 #### scikit-learn 0.23.2
